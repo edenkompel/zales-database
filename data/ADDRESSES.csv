@@ -1,0 +1,301 @@
+AddressID,Country,City,Street,HouseNumber,ZipCode
+1,United States,San Jose,Main St,4507,95112
+2,United States,Chicago,Jefferson St,1680,60657
+3,United States,New York,Market St,521,10001
+4,United States,New York,Park Ave,8280,10016
+5,United States,New York,Lakeview Dr,8929,10011
+6,United States,Chicago,Walnut St,4558,60601
+7,United States,Las Vegas,Washington St,6925,89117
+8,United States,Chicago,Lakeview Dr,5515,60601
+9,United States,New York,Pine St,5882,10003
+10,United States,Dallas,Oak St,7528,75230
+11,United States,Los Angeles,Highland Ave,1292,90046
+12,United States,Houston,Spring St,5926,77098
+13,United States,Los Angeles,Maple Ave,751,90012
+14,United States,Orlando,Maple Ave,3815,32801
+15,United States,Phoenix,Riverside Dr,5978,85004
+16,United States,Phoenix,Lakeview Dr,4375,85001
+17,United States,San Jose,Washington St,8752,95112
+18,United States,Los Angeles,Highland Ave,4423,90046
+19,United States,Chicago,Broadway,917,60611
+20,United States,Seattle,Broadway,6573,98105
+21,United States,New York,Walnut St,5156,10002
+22,United States,Miami,Highland Ave,7518,33130
+23,United States,Chicago,Park Ave,9198,60657
+24,United States,Chicago,Walnut St,7020,60657
+25,United States,Phoenix,Park Ave,2267,85032
+26,United States,San Antonio,Adams St,772,78205
+27,United States,Los Angeles,Washington St,6917,90046
+28,United States,New York,Highland Ave,9764,10011
+29,United States,San Diego,Church St,189,92101
+30,United States,Miami,Church St,4372,33131
+31,United States,Los Angeles,Market St,2592,90036
+32,United States,New York,Jefferson St,4316,10016
+33,United States,Orlando,Meadow Ln,1744,32819
+34,United States,Boston,Meadow Ln,9978,02110
+35,United States,Los Angeles,Adams St,2647,90046
+36,United States,Nashville,Meadow Ln,10,37215
+37,United States,Houston,Main St,1833,77024
+38,United States,Denver,Sunset Blvd,3924,80202
+39,United States,Chicago,Walnut St,1291,60601
+40,United States,Las Vegas,Maple Ave,8728,89109
+41,United States,Los Angeles,Hillcrest Rd,9008,90012
+42,United States,Chicago,Center St,6933,60611
+43,United States,Austin,Adams St,3296,78704
+44,United States,Phoenix,Franklin Ave,6119,85018
+45,United States,Denver,Riverside Dr,1983,80203
+46,United States,Chicago,Broadway,345,60657
+47,United States,San Diego,Walnut St,3609,92101
+48,United States,New York,Spring St,965,10002
+49,United States,New York,Oak St,5414,10001
+50,United States,San Diego,Madison Ave,7954,92103
+51,United States,San Diego,Jefferson St,9356,92130
+52,United States,San Antonio,Hillcrest Rd,6670,78209
+53,United States,New York,Franklin Ave,7063,10003
+54,United States,Philadelphia,Riverside Dr,888,19102
+55,United States,New York,Jefferson St,5560,10001
+56,United States,Chicago,Lakeview Dr,8787,60622
+57,United States,Los Angeles,Washington St,4564,90036
+58,United States,Chicago,Maple Ave,7261,60657
+59,United States,New York,Spring St,8857,10001
+60,United States,Nashville,Adams St,3873,37203
+61,United States,Phoenix,Hillcrest Rd,3503,85018
+62,United States,Denver,Washington St,6210,80202
+63,United States,Charlotte,Madison Ave,7455,28205
+64,United States,Philadelphia,Jefferson St,9106,19106
+65,United States,Los Angeles,Sunset Blvd,3567,90001
+66,United States,Dallas,Church St,999,75205
+67,United States,New York,Walnut St,7812,10016
+68,United States,Austin,Meadow Ln,2580,78701
+69,United States,Nashville,Maple Ave,3045,37201
+70,United States,Dallas,Franklin Ave,3854,75219
+71,United States,Los Angeles,Walnut St,4034,90046
+72,United States,Dallas,Center St,1344,75219
+73,United States,Miami,Walnut St,8566,33131
+74,United States,Austin,Lakeview Dr,5148,78703
+75,United States,Chicago,Cedar Ave,4916,60622
+76,United States,Houston,Adams St,1189,77002
+77,United States,Philadelphia,Walnut St,1639,19102
+78,United States,San Diego,Meadow Ln,4346,92103
+79,United States,Austin,Maple Ave,4003,78704
+80,United States,Houston,Riverside Dr,8901,77024
+81,United States,San Jose,Spring St,8667,95110
+82,United States,Miami,Church St,4906,33101
+83,United States,Austin,Cedar Ave,4334,78701
+84,United States,Denver,Jefferson St,9065,80203
+85,United States,Chicago,Center St,3451,60614
+86,United States,Chicago,Spring St,4326,60657
+87,United States,San Antonio,Oak St,1513,78216
+88,United States,Seattle,Oak St,59,98105
+89,United States,Orlando,Spring St,4292,32803
+90,United States,Las Vegas,Church St,7008,89135
+91,United States,New York,Maple Ave,2443,10016
+92,United States,New York,Elm St,9544,10016
+93,United States,Los Angeles,Cedar Ave,686,90024
+94,United States,Phoenix,Oak St,5863,85004
+95,United States,Miami,Franklin Ave,1685,33131
+96,United States,Orlando,Market St,2533,32803
+97,United States,Boston,Washington St,6756,02108
+98,United States,Los Angeles,Broadway,6746,90012
+99,United States,Chicago,Lincoln Ave,1772,60622
+100,United States,Denver,Hillcrest Rd,3645,80203
+101,United States,Seattle,Riverside Dr,5729,98105
+102,United States,Seattle,Park Ave,3653,98101
+103,United States,Miami,Highland Ave,5379,33131
+104,United States,Boston,Adams St,4574,02111
+105,United States,San Jose,Highland Ave,8786,95124
+106,United States,Austin,Pine St,4280,78703
+107,United States,Dallas,Madison Ave,627,75201
+108,United States,Dallas,Elm St,5140,75219
+109,United States,San Jose,Meadow Ln,1895,95126
+110,United States,Denver,Lakeview Dr,4174,80202
+111,United States,Atlanta,Main St,8519,30318
+112,United States,Miami,Jefferson St,3229,33131
+113,United States,Philadelphia,Franklin Ave,5410,19107
+114,United States,Houston,Pine St,4921,77098
+115,United States,Houston,Market St,5345,77056
+116,United States,Atlanta,Church St,2086,30305
+117,United States,Philadelphia,Highland Ave,2852,19107
+118,United States,Dallas,Highland Ave,8978,75201
+119,United States,Houston,Lakeview Dr,7044,77098
+120,United States,San Jose,Broadway,7619,95126
+121,United States,Philadelphia,Lakeview Dr,8376,19106
+122,United States,Orlando,Jefferson St,2781,32801
+123,United States,Chicago,Franklin Ave,5492,60601
+124,United States,Seattle,Adams St,3849,98105
+125,United States,Chicago,Lakeview Dr,2415,60601
+126,United States,New York,Hillcrest Rd,1194,10011
+127,United States,Philadelphia,Spring St,9432,19103
+128,United States,Atlanta,Highland Ave,8100,30309
+129,United States,Chicago,Spring St,91,60601
+130,United States,Orlando,Park Ave,2882,32828
+131,United States,Philadelphia,Church St,4083,19102
+132,United States,Philadelphia,Riverside Dr,8703,19107
+133,United States,Dallas,Adams St,7252,75230
+134,United States,Seattle,Meadow Ln,6992,98121
+135,United States,Philadelphia,Washington St,7778,19106
+136,United States,Chicago,Park Ave,4544,60657
+137,United States,San Antonio,Park Ave,4500,78216
+138,United States,New York,Sunset Blvd,3842,10003
+139,United States,Houston,Church St,1321,77005
+140,United States,Los Angeles,Highland Ave,2504,90012
+141,United States,New York,Market St,5422,10016
+142,United States,Philadelphia,Oak St,3389,19106
+143,United States,Phoenix,Adams St,9570,85001
+144,United States,Boston,Adams St,9433,02115
+145,United States,San Antonio,Elm St,4893,78216
+146,United States,Boston,Market St,8819,02116
+147,United States,Seattle,Park Ave,8000,98103
+148,United States,Chicago,Hillcrest Rd,476,60622
+149,United States,Houston,Franklin Ave,6625,77005
+150,United States,Boston,Cedar Ave,8752,02108
+151,United States,Denver,Walnut St,9247,80202
+152,United States,New York,Market St,2224,10011
+153,United States,Los Angeles,Madison Ave,6212,90024
+154,United States,Chicago,Broadway,5530,60622
+155,United States,Chicago,Market St,4134,60601
+156,United States,San Antonio,Jefferson St,8838,78205
+157,United States,Charlotte,Elm St,3674,28202
+158,United States,Orlando,Spring St,660,32801
+159,United States,Nashville,Lakeview Dr,334,37215
+160,United States,Los Angeles,Cedar Ave,7759,90001
+161,United States,Dallas,Lakeview Dr,7620,75205
+162,United States,Orlando,Washington St,9927,32828
+163,United States,Nashville,Lincoln Ave,1877,37203
+164,United States,Nashville,Pine St,9482,37201
+165,United States,Austin,Walnut St,6150,78731
+166,United States,Austin,Lakeview Dr,1246,78745
+167,United States,Atlanta,Spring St,3979,30303
+168,United States,Atlanta,Sunset Blvd,9838,30303
+169,United States,Orlando,Walnut St,673,32819
+170,United States,San Diego,Franklin Ave,6072,92101
+171,United States,San Antonio,Broadway,208,78216
+172,United States,Seattle,Pine St,7103,98105
+173,United States,San Jose,Riverside Dr,2507,95126
+174,United States,Los Angeles,Meadow Ln,4426,90046
+175,United States,Seattle,Church St,7922,98109
+176,United States,Philadelphia,Jefferson St,9708,19104
+177,United States,Houston,Park Ave,1420,77024
+178,United States,Denver,Park Ave,7614,80211
+179,United States,San Jose,Highland Ave,5512,95110
+180,United States,San Antonio,Broadway,2980,78216
+181,United States,Chicago,Madison Ave,5577,60614
+182,United States,Denver,Lincoln Ave,4527,80211
+183,United States,New York,Lakeview Dr,1403,10002
+184,United States,Atlanta,Hillcrest Rd,9097,30305
+185,United States,Atlanta,Spring St,8042,30309
+186,United States,Orlando,Maple Ave,4821,32803
+187,United States,Phoenix,Park Ave,5017,85032
+188,United States,Phoenix,Church St,8699,85016
+189,United States,Philadelphia,Jefferson St,9018,19104
+190,United States,Houston,Riverside Dr,4439,77024
+191,United States,Chicago,Pine St,3156,60614
+192,United States,Los Angeles,Church St,3034,90012
+193,United States,Chicago,Hillcrest Rd,4531,60657
+194,United States,Charlotte,Meadow Ln,9778,28205
+195,United States,Charlotte,Lakeview Dr,4854,28203
+196,United States,Phoenix,Sunset Blvd,232,85032
+197,United States,Los Angeles,Oak St,894,90046
+198,United States,Houston,Cedar Ave,8043,77002
+199,United States,Denver,Walnut St,4659,80209
+200,United States,San Antonio,Broadway,3021,78205
+201,United States,Chicago,Hillcrest Rd,1870,60601
+202,United States,Phoenix,Maple Ave,9454,85001
+203,United States,Los Angeles,Walnut St,4979,90001
+204,United States,Charlotte,Pine St,9144,28209
+205,United States,San Jose,Center St,3698,95134
+206,United States,Phoenix,Riverside Dr,4872,85032
+207,United States,Charlotte,Sunset Blvd,9317,28211
+208,United States,New York,Jefferson St,1626,10002
+209,United States,San Jose,Madison Ave,1331,95112
+210,United States,Chicago,Church St,1230,60611
+211,United States,New York,Riverside Dr,9730,10011
+212,United States,Houston,Park Ave,4721,77024
+213,United States,Atlanta,Riverside Dr,1167,30305
+214,United States,Austin,Spring St,9664,78703
+215,United States,Philadelphia,Church St,3684,19103
+216,United States,Austin,Cedar Ave,1170,78701
+217,United States,Los Angeles,Sunset Blvd,9750,90046
+218,United States,Austin,Riverside Dr,2038,78731
+219,United States,Atlanta,Lincoln Ave,6595,30308
+220,United States,San Antonio,Hillcrest Rd,7173,78205
+221,United States,Dallas,Market St,5281,75230
+222,United States,Chicago,Maple Ave,3751,60657
+223,United States,Dallas,Main St,4416,75230
+224,United States,New York,Adams St,2871,10011
+225,United States,San Diego,Riverside Dr,4558,92103
+226,United States,Charlotte,Market St,8057,28202
+227,United States,San Antonio,Market St,5461,78212
+228,United States,Miami,Washington St,5404,33132
+229,United States,Atlanta,Sunset Blvd,6562,30318
+230,United States,New York,Maple Ave,5154,10003
+231,United States,Houston,Adams St,6623,77098
+232,United States,Seattle,Main St,8890,98109
+233,United States,Philadelphia,Lakeview Dr,8495,19104
+234,United States,San Jose,Hillcrest Rd,7243,95110
+235,United States,Chicago,Church St,2147,60614
+236,United States,Philadelphia,Lincoln Ave,7942,19102
+237,United States,New York,Spring St,9976,10002
+238,United States,Atlanta,Sunset Blvd,9025,30303
+239,United States,San Diego,Maple Ave,3682,92101
+240,United States,Philadelphia,Pine St,2523,19106
+241,United States,Austin,Sunset Blvd,8338,78704
+242,United States,Philadelphia,Hillcrest Rd,7737,19103
+243,United States,Philadelphia,Cedar Ave,6285,19103
+244,United States,Austin,Meadow Ln,2237,78701
+245,United States,Chicago,Market St,5569,60657
+246,United States,Chicago,Main St,4635,60614
+247,United States,Boston,Walnut St,8023,02110
+248,United States,Philadelphia,Hillcrest Rd,5655,19104
+249,United States,San Diego,Church St,6181,92121
+250,United States,Austin,Lakeview Dr,3913,78745
+251,United States,Phoenix,Adams St,6731,85001
+252,United States,Houston,Hillcrest Rd,6247,77056
+253,United States,Charlotte,Spring St,2493,28209
+254,United States,Nashville,Cedar Ave,8230,37215
+255,United States,Houston,Pine St,7214,77002
+256,United States,San Diego,Riverside Dr,252,92103
+257,United States,Phoenix,Spring St,2530,85001
+258,United States,San Antonio,Madison Ave,5547,78230
+259,United States,Atlanta,Spring St,1316,30308
+260,United States,Boston,Church St,6227,02111
+261,United States,San Jose,Adams St,7995,95134
+262,United States,New York,Maple Ave,3847,10003
+263,United States,Charlotte,Jefferson St,1481,28209
+264,United States,Charlotte,Adams St,1647,28209
+265,United States,Los Angeles,Sunset Blvd,475,90001
+266,United States,Houston,Oak St,4807,77024
+267,United States,Phoenix,Cedar Ave,4001,85032
+268,United States,Phoenix,Franklin Ave,2951,85004
+269,United States,Los Angeles,Center St,6268,90046
+270,United States,Miami,Hillcrest Rd,9555,33130
+271,United States,Chicago,Spring St,4162,60622
+272,United States,Chicago,Main St,7623,60614
+273,United States,Miami,Washington St,1211,33132
+274,United States,Nashville,Walnut St,4902,37209
+275,United States,Atlanta,Riverside Dr,4950,30305
+276,United States,Charlotte,Hillcrest Rd,1748,28203
+277,United States,Phoenix,Elm St,9418,85016
+278,United States,Charlotte,Sunset Blvd,360,28209
+279,United States,Chicago,Walnut St,804,60657
+280,United States,Las Vegas,Sunset Blvd,3771,89135
+281,United States,Seattle,Park Ave,3116,98121
+282,United States,Chicago,Adams St,2241,60601
+283,United States,Denver,Spring St,646,80206
+284,United States,Orlando,Oak St,9496,32819
+285,United States,Las Vegas,Maple Ave,4836,89117
+286,United States,Las Vegas,Washington St,3290,89109
+287,United States,Orlando,Elm St,8698,32828
+288,United States,Austin,Washington St,4211,78731
+289,United States,Nashville,Sunset Blvd,5550,37201
+290,United States,San Antonio,Maple Ave,2307,78209
+291,United States,Boston,Jefferson St,6512,02116
+292,United States,Phoenix,Highland Ave,229,85016
+293,United States,San Diego,Riverside Dr,6039,92109
+294,United States,Dallas,Spring St,6087,75201
+295,United States,Miami,Hillcrest Rd,411,33139
+296,United States,Denver,Church St,5375,80211
+297,United States,Chicago,Maple Ave,7607,60614
+298,United States,Miami,Pine St,2291,33101
+299,United States,Nashville,Sunset Blvd,8072,37201
+300,United States,New York,Church St,2223,10011

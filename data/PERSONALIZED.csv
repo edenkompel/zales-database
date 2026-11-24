@@ -1,0 +1,181 @@
+ProductID,PersonalizedID,Style,Engraving,Color,Stone,Material
+162,1,Luxury,Name engraving,White,Diamond,Platinum
+163,2,Vintage,No engraving,Silver,Diamond,Leather
+39,3,Boho,Date engraving,Silver,Pearl,Rose Gold
+59,4,Elegant,No engraving,White,Opal,Gold
+31,5,Classic,Date engraving,Black,Pearl,Rose Gold
+34,6,Luxury,Initials,Silver,Amethyst,Stainless Steel
+103,7,Vintage,Short quote,Black,Opal,Stainless Steel
+10,8,Vintage,No engraving,Green,Sapphire,Titanium
+71,9,Vintage,Short quote,Blue,Sapphire,Titanium
+50,10,Modern,Short quote,Rose Gold,,Rose Gold
+238,11,Minimalist,Name engraving,Red,Sapphire,Stainless Steel
+38,12,Classic,Date engraving,Rose Gold,Sapphire,Pearl
+110,13,Vintage,Initials,Rose Gold,Ruby,Pearl
+5,14,Vintage,Short quote,Green,Ruby,Rose Gold
+158,15,Classic,No engraving,Silver,Amethyst,Pearl
+52,16,Classic,Initials,Gold,Diamond,Rose Gold
+24,17,Vintage,Initials,White,Sapphire,Gold
+222,18,Classic,Initials,Blue,Ruby,Platinum
+14,19,Minimalist,Short quote,Red,Sapphire,Stainless Steel
+98,20,Boho,Short quote,Rose Gold,Emerald,Gold
+105,21,Luxury,No engraving,Silver,Diamond,Gold
+135,22,Modern,No engraving,White,Ruby,Pearl
+79,23,Minimalist,Initials,Black,Diamond,Platinum
+180,24,Elegant,Short quote,Rose Gold,Opal,Stainless Steel
+249,25,Vintage,Short quote,Silver,,Rose Gold
+60,26,Modern,Name engraving,Silver,Pearl,Leather
+57,27,Modern,No engraving,Blue,Ruby,Leather
+87,28,Modern,Initials,Rose Gold,Sapphire,Pearl
+240,29,Boho,No engraving,Rose Gold,Amethyst,Rose Gold
+123,30,Luxury,No engraving,White,Opal,Silver
+16,31,Luxury,Short quote,Blue,Pearl,Silver
+131,32,Classic,Name engraving,Rose Gold,Opal,Rose Gold
+233,33,Elegant,Short quote,Red,Ruby,Silver
+165,34,Elegant,Date engraving,Rose Gold,Ruby,Leather
+232,35,Minimalist,Name engraving,Green,Opal,Leather
+78,36,Sporty,Short quote,Red,Amethyst,Leather
+29,37,Minimalist,Name engraving,Green,Amethyst,Titanium
+69,38,Sporty,No engraving,Black,Amethyst,Silver
+94,39,Elegant,No engraving,Black,Ruby,Platinum
+72,40,Boho,Initials,Black,Diamond,Leather
+90,41,Sporty,Name engraving,Silver,Diamond,Leather
+183,42,Boho,Name engraving,White,,Rose Gold
+108,43,Elegant,Name engraving,Black,Emerald,Gold
+64,44,Minimalist,Initials,Rose Gold,Amethyst,Gold
+82,45,Elegant,Date engraving,Gold,Ruby,Silver
+13,46,Sporty,No engraving,Rose Gold,Diamond,Rose Gold
+47,47,Boho,Name engraving,Silver,Emerald,Silver
+11,48,Classic,No engraving,Green,Sapphire,Rose Gold
+1,49,Sporty,Name engraving,White,,Pearl
+216,50,Boho,Short quote,Gold,Pearl,Silver
+170,51,Minimalist,Initials,Gold,Sapphire,Rose Gold
+191,52,Classic,Short quote,Green,,Stainless Steel
+83,53,Luxury,Name engraving,Green,Sapphire,Stainless Steel
+55,54,Modern,No engraving,Green,Sapphire,Platinum
+74,55,Elegant,No engraving,Gold,Emerald,Pearl
+121,56,Minimalist,No engraving,Silver,,Titanium
+211,57,Boho,Short quote,Green,Sapphire,Gold
+156,58,Boho,Short quote,Black,Pearl,Silver
+26,59,Modern,Initials,Blue,Opal,Gold
+111,60,Vintage,Date engraving,Rose Gold,Ruby,Silver
+48,61,Vintage,No engraving,Gold,Pearl,Platinum
+65,62,Vintage,Initials,Black,Pearl,Silver
+126,63,Classic,No engraving,Red,Diamond,Gold
+212,64,Boho,Initials,White,Diamond,Leather
+86,65,Luxury,Short quote,Black,Opal,Pearl
+215,66,Boho,Name engraving,Silver,Opal,Pearl
+214,67,Modern,No engraving,Rose Gold,Diamond,Pearl
+25,68,Sporty,No engraving,Gold,Pearl,Rose Gold
+172,69,Minimalist,Short quote,Silver,Ruby,Platinum
+4,70,Vintage,Name engraving,Rose Gold,Opal,Titanium
+175,71,Minimalist,Date engraving,White,Opal,Pearl
+142,72,Classic,Short quote,Black,Emerald,Silver
+245,73,Minimalist,No engraving,Red,Ruby,Gold
+85,74,Minimalist,Date engraving,Silver,,Silver
+93,75,Sporty,Date engraving,Rose Gold,Pearl,Rose Gold
+176,76,Modern,Date engraving,Blue,Opal,Silver
+151,77,Modern,Name engraving,Red,Pearl,Titanium
+136,78,Luxury,Short quote,Rose Gold,Ruby,Titanium
+155,79,Classic,Date engraving,White,Amethyst,Pearl
+96,80,Minimalist,Short quote,Blue,Opal,Leather
+61,81,Modern,Short quote,Red,Pearl,Gold
+167,82,Classic,Name engraving,Gold,Sapphire,Silver
+242,83,Luxury,Short quote,Rose Gold,Amethyst,Silver
+54,84,Vintage,Short quote,Red,Ruby,Leather
+150,85,Sporty,Short quote,Red,Ruby,Silver
+99,86,Minimalist,Initials,Green,Amethyst,Platinum
+23,87,Elegant,Date engraving,Silver,Opal,Leather
+28,88,Sporty,Name engraving,Red,Ruby,Stainless Steel
+178,89,Sporty,Initials,Rose Gold,,Rose Gold
+182,90,Vintage,Date engraving,Gold,Amethyst,Gold
+246,91,Boho,Short quote,Red,Emerald,Gold
+203,92,Vintage,Initials,Green,Pearl,Stainless Steel
+174,93,Minimalist,Initials,Rose Gold,Ruby,Stainless Steel
+49,94,Elegant,Initials,White,,Pearl
+241,95,Vintage,Date engraving,Rose Gold,Diamond,Silver
+115,96,Elegant,Date engraving,White,Sapphire,Platinum
+192,97,Boho,Short quote,Red,,Rose Gold
+20,98,Elegant,Date engraving,Green,Diamond,Platinum
+140,99,Modern,No engraving,Rose Gold,Opal,Leather
+88,100,Classic,Name engraving,Red,Sapphire,Titanium
+185,101,Boho,Initials,Green,Pearl,Gold
+122,102,Sporty,Name engraving,Red,Ruby,Gold
+235,103,Vintage,Name engraving,Green,Sapphire,Pearl
+137,104,Vintage,Date engraving,Black,Emerald,Gold
+40,105,Boho,Date engraving,Gold,Pearl,Stainless Steel
+12,106,Modern,Short quote,Red,Amethyst,Pearl
+33,107,Boho,Date engraving,Green,Opal,Silver
+193,108,Minimalist,Short quote,Green,Opal,Rose Gold
+208,109,Minimalist,No engraving,Green,Amethyst,Stainless Steel
+141,110,Elegant,Date engraving,Silver,Ruby,Silver
+189,111,Modern,Initials,Green,Ruby,Titanium
+89,112,Modern,Short quote,Gold,Pearl,Pearl
+187,113,Vintage,Name engraving,Red,Amethyst,Silver
+161,114,Vintage,Short quote,Silver,Opal,Titanium
+160,115,Elegant,Short quote,Gold,Opal,Platinum
+112,116,Luxury,Date engraving,White,Pearl,Pearl
+18,117,Vintage,Initials,Green,Diamond,Gold
+124,118,Classic,Name engraving,Blue,Opal,Leather
+179,119,Minimalist,No engraving,Green,Emerald,Pearl
+129,120,Vintage,No engraving,Green,Diamond,Pearl
+6,121,Minimalist,Short quote,Rose Gold,Amethyst,Leather
+43,122,Minimalist,Short quote,Black,Ruby,Rose Gold
+168,123,Modern,No engraving,Green,Pearl,Rose Gold
+210,124,Boho,Name engraving,Silver,Ruby,Gold
+133,125,Elegant,Initials,Rose Gold,Diamond,Silver
+17,126,Elegant,Initials,Rose Gold,,Leather
+239,127,Minimalist,Name engraving,Black,Pearl,Platinum
+130,128,Vintage,Short quote,White,Diamond,Stainless Steel
+73,129,Modern,Name engraving,Gold,Ruby,Silver
+8,130,Sporty,No engraving,Silver,Ruby,Rose Gold
+102,131,Luxury,Date engraving,Rose Gold,Ruby,Silver
+139,132,Sporty,Date engraving,Black,Amethyst,Silver
+209,133,Sporty,Initials,Green,Ruby,Titanium
+95,134,Modern,Name engraving,Green,Amethyst,Leather
+230,135,Sporty,Name engraving,Rose Gold,Pearl,Gold
+51,136,Minimalist,No engraving,Gold,Ruby,Leather
+207,137,Boho,Short quote,Gold,Sapphire,Stainless Steel
+236,138,Modern,Name engraving,Gold,Diamond,Rose Gold
+213,139,Vintage,Date engraving,Silver,Emerald,Gold
+66,140,Boho,Name engraving,Black,Ruby,Rose Gold
+243,141,Luxury,Date engraving,Red,Emerald,Silver
+22,142,Boho,No engraving,White,,Titanium
+224,143,Elegant,No engraving,Green,Emerald,Stainless Steel
+97,144,Minimalist,Name engraving,White,Amethyst,Silver
+199,145,Luxury,Name engraving,Black,,Pearl
+143,146,Sporty,Short quote,White,Opal,Silver
+194,147,Elegant,Short quote,Black,Opal,Leather
+100,148,Modern,Short quote,Rose Gold,Diamond,Stainless Steel
+116,149,Elegant,Date engraving,Blue,Amethyst,Gold
+148,150,Modern,Name engraving,Blue,Amethyst,Rose Gold
+166,151,Boho,Name engraving,Silver,Emerald,Leather
+35,152,Boho,Name engraving,Blue,Ruby,Gold
+27,153,Boho,Initials,Blue,Emerald,Titanium
+234,154,Boho,Name engraving,Silver,Amethyst,Stainless Steel
+202,155,Vintage,No engraving,Black,Ruby,Stainless Steel
+21,156,Modern,No engraving,Green,Amethyst,Leather
+196,157,Boho,Name engraving,Black,Diamond,Titanium
+226,158,Sporty,Initials,White,Amethyst,Silver
+76,159,Modern,Short quote,Rose Gold,Opal,Pearl
+127,160,Vintage,No engraving,Gold,Pearl,Gold
+2,161,Classic,Short quote,White,Sapphire,Pearl
+106,162,Classic,No engraving,Gold,Opal,Gold
+247,163,Modern,Short quote,Silver,Amethyst,Stainless Steel
+152,164,Luxury,Date engraving,Blue,Amethyst,Silver
+68,165,Boho,Short quote,Gold,Amethyst,Stainless Steel
+250,166,Sporty,Short quote,Silver,Opal,Silver
+248,167,Classic,Name engraving,Gold,Diamond,Rose Gold
+184,168,Modern,Date engraving,Green,Emerald,Rose Gold
+188,169,Modern,Name engraving,Blue,Diamond,Gold
+217,170,Luxury,Initials,Silver,Diamond,Stainless Steel
+128,171,Modern,Date engraving,Blue,Amethyst,Stainless Steel
+220,172,Minimalist,Name engraving,Red,Ruby,Rose Gold
+109,173,Boho,Name engraving,Green,,Silver
+198,174,Vintage,No engraving,Red,,Stainless Steel
+221,175,Boho,Short quote,Black,Ruby,Stainless Steel
+229,176,Luxury,Initials,Blue,Emerald,Platinum
+173,177,Modern,Initials,Red,Diamond,Platinum
+206,178,Classic,Name engraving,Red,Amethyst,Platinum
+92,179,Sporty,Initials,Blue,Emerald,Leather
+19,180,Luxury,Short quote,Rose Gold,Ruby,Rose Gold

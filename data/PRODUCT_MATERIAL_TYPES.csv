@@ -1,0 +1,521 @@
+ProductID,MaterialType
+1,Rose Gold
+2,Titanium
+3,Stainless Steel
+3,Titanium
+4,Rose Gold
+4,Titanium
+5,Leather
+5,Titanium
+6,Gold
+6,Platinum
+6,Rose Gold
+6,Titanium
+7,Platinum
+7,Rose Gold
+7,Titanium
+8,Gold
+8,Platinum
+8,Rose Gold
+8,Titanium
+9,Leather
+9,Titanium
+10,Leather
+10,Platinum
+10,Stainless Steel
+11,Leather
+11,Platinum
+12,Gold
+12,Leather
+12,Platinum
+12,Stainless Steel
+13,Pearl
+13,Stainless Steel
+14,Gold
+14,Leather
+14,Pearl
+14,Titanium
+16,Stainless Steel
+18,Gold
+18,Rose Gold
+18,Titanium
+19,Gold
+19,Leather
+19,Pearl
+19,Rose Gold
+20,Gold
+20,Platinum
+20,Stainless Steel
+20,Titanium
+22,Gold
+22,Platinum
+22,Stainless Steel
+23,Gold
+23,Rose Gold
+24,Gold
+25,Rose Gold
+26,Gold
+26,Leather
+26,Platinum
+26,Silver
+26,Stainless Steel
+27,Gold
+27,Rose Gold
+27,Titanium
+28,Gold
+28,Platinum
+29,Silver
+29,Stainless Steel
+30,Gold
+30,Silver
+30,Titanium
+31,Leather
+31,Pearl
+31,Silver
+31,Stainless Steel
+32,Gold
+32,Leather
+32,Stainless Steel
+33,Gold
+33,Pearl
+33,Platinum
+33,Stainless Steel
+33,Titanium
+34,Gold
+34,Leather
+35,Platinum
+36,Leather
+36,Platinum
+37,Gold
+37,Platinum
+37,Silver
+38,Gold
+38,Pearl
+38,Titanium
+39,Gold
+41,Leather
+42,Leather
+42,Pearl
+43,Rose Gold
+43,Stainless Steel
+44,Gold
+44,Leather
+44,Platinum
+45,Pearl
+45,Rose Gold
+46,Stainless Steel
+47,Stainless Steel
+48,Pearl
+48,Rose Gold
+48,Stainless Steel
+48,Titanium
+49,Gold
+49,Pearl
+49,Platinum
+49,Silver
+50,Pearl
+50,Stainless Steel
+51,Stainless Steel
+52,Leather
+53,Gold
+53,Pearl
+53,Rose Gold
+55,Rose Gold
+57,Leather
+57,Silver
+58,Platinum
+59,Pearl
+59,Rose Gold
+60,Silver
+60,Stainless Steel
+60,Titanium
+61,Platinum
+61,Titanium
+62,Gold
+62,Silver
+63,Rose Gold
+64,Pearl
+64,Platinum
+65,Leather
+65,Rose Gold
+67,Stainless Steel
+67,Titanium
+68,Leather
+68,Titanium
+70,Gold
+70,Leather
+70,Silver
+70,Stainless Steel
+71,Gold
+71,Leather
+71,Platinum
+71,Titanium
+72,Pearl
+72,Silver
+72,Stainless Steel
+73,Pearl
+73,Rose Gold
+73,Silver
+73,Titanium
+74,Leather
+74,Silver
+74,Stainless Steel
+75,Platinum
+75,Rose Gold
+75,Stainless Steel
+75,Titanium
+76,Silver
+77,Pearl
+77,Silver
+78,Leather
+78,Platinum
+78,Stainless Steel
+78,Titanium
+79,Gold
+79,Platinum
+80,Platinum
+81,Silver
+82,Silver
+82,Stainless Steel
+83,Platinum
+83,Silver
+84,Leather
+84,Rose Gold
+85,Platinum
+86,Pearl
+86,Silver
+86,Titanium
+87,Pearl
+88,Leather
+88,Pearl
+88,Rose Gold
+89,Silver
+89,Stainless Steel
+90,Pearl
+90,Platinum
+90,Silver
+91,Leather
+91,Pearl
+91,Platinum
+91,Rose Gold
+91,Silver
+91,Stainless Steel
+92,Rose Gold
+92,Titanium
+93,Pearl
+93,Platinum
+93,Silver
+93,Stainless Steel
+95,Platinum
+95,Stainless Steel
+97,Gold
+97,Pearl
+97,Rose Gold
+97,Titanium
+98,Leather
+98,Silver
+99,Leather
+99,Titanium
+100,Leather
+101,Gold
+101,Pearl
+102,Pearl
+103,Gold
+103,Platinum
+105,Gold
+105,Pearl
+107,Platinum
+108,Pearl
+108,Stainless Steel
+109,Pearl
+109,Stainless Steel
+110,Leather
+110,Titanium
+111,Leather
+111,Pearl
+111,Rose Gold
+111,Silver
+111,Stainless Steel
+111,Titanium
+112,Platinum
+113,Pearl
+113,Platinum
+113,Rose Gold
+114,Leather
+114,Pearl
+114,Stainless Steel
+114,Titanium
+115,Pearl
+116,Titanium
+118,Gold
+118,Rose Gold
+119,Gold
+119,Pearl
+119,Titanium
+120,Leather
+120,Platinum
+120,Rose Gold
+120,Titanium
+121,Silver
+121,Stainless Steel
+122,Titanium
+123,Platinum
+123,Silver
+124,Rose Gold
+126,Platinum
+126,Titanium
+127,Gold
+127,Leather
+127,Platinum
+127,Stainless Steel
+128,Platinum
+128,Rose Gold
+128,Titanium
+129,Leather
+129,Platinum
+129,Titanium
+130,Leather
+130,Rose Gold
+131,Leather
+131,Stainless Steel
+132,Pearl
+132,Silver
+133,Pearl
+133,Rose Gold
+134,Rose Gold
+134,Silver
+134,Stainless Steel
+135,Rose Gold
+135,Stainless Steel
+135,Titanium
+136,Titanium
+137,Gold
+137,Pearl
+137,Silver
+138,Silver
+139,Gold
+140,Rose Gold
+140,Silver
+140,Stainless Steel
+141,Leather
+141,Rose Gold
+142,Pearl
+142,Titanium
+144,Titanium
+145,Pearl
+145,Titanium
+146,Leather
+146,Silver
+146,Stainless Steel
+146,Titanium
+147,Titanium
+148,Leather
+148,Pearl
+148,Stainless Steel
+148,Titanium
+149,Leather
+149,Silver
+150,Gold
+150,Pearl
+150,Titanium
+151,Leather
+151,Pearl
+152,Leather
+152,Silver
+153,Leather
+153,Stainless Steel
+154,Platinum
+154,Silver
+155,Platinum
+155,Silver
+156,Gold
+156,Pearl
+156,Rose Gold
+156,Silver
+156,Stainless Steel
+156,Titanium
+158,Stainless Steel
+160,Gold
+160,Platinum
+160,Rose Gold
+161,Pearl
+162,Platinum
+162,Rose Gold
+162,Silver
+162,Titanium
+163,Gold
+164,Platinum
+164,Silver
+166,Platinum
+167,Leather
+167,Pearl
+167,Titanium
+168,Gold
+168,Titanium
+169,Rose Gold
+169,Silver
+169,Stainless Steel
+169,Titanium
+170,Gold
+170,Stainless Steel
+170,Titanium
+171,Silver
+171,Stainless Steel
+171,Titanium
+172,Gold
+173,Platinum
+173,Rose Gold
+173,Titanium
+174,Leather
+174,Stainless Steel
+175,Gold
+175,Platinum
+175,Silver
+175,Titanium
+176,Gold
+177,Leather
+178,Leather
+178,Platinum
+179,Rose Gold
+179,Silver
+179,Titanium
+180,Platinum
+180,Rose Gold
+181,Leather
+181,Stainless Steel
+181,Titanium
+183,Stainless Steel
+184,Silver
+185,Gold
+186,Rose Gold
+186,Silver
+187,Pearl
+187,Silver
+188,Gold
+188,Pearl
+188,Rose Gold
+188,Stainless Steel
+188,Titanium
+189,Leather
+190,Pearl
+190,Rose Gold
+190,Stainless Steel
+191,Platinum
+191,Silver
+192,Gold
+194,Gold
+194,Pearl
+194,Rose Gold
+197,Pearl
+198,Platinum
+198,Stainless Steel
+199,Pearl
+199,Silver
+200,Pearl
+200,Stainless Steel
+201,Gold
+202,Platinum
+202,Rose Gold
+204,Stainless Steel
+205,Leather
+205,Stainless Steel
+206,Gold
+206,Leather
+206,Rose Gold
+206,Silver
+207,Leather
+207,Silver
+207,Titanium
+208,Platinum
+208,Rose Gold
+209,Gold
+209,Pearl
+210,Platinum
+211,Stainless Steel
+211,Titanium
+212,Leather
+213,Pearl
+213,Titanium
+214,Gold
+214,Pearl
+214,Platinum
+214,Silver
+215,Gold
+215,Stainless Steel
+216,Platinum
+216,Stainless Steel
+217,Gold
+217,Rose Gold
+217,Silver
+219,Pearl
+219,Platinum
+219,Stainless Steel
+220,Platinum
+220,Silver
+220,Titanium
+221,Pearl
+222,Gold
+222,Pearl
+223,Platinum
+224,Platinum
+224,Silver
+225,Silver
+225,Stainless Steel
+225,Titanium
+226,Pearl
+226,Silver
+227,Rose Gold
+228,Gold
+228,Leather
+228,Titanium
+229,Gold
+229,Stainless Steel
+229,Titanium
+230,Leather
+230,Platinum
+230,Rose Gold
+231,Pearl
+231,Rose Gold
+232,Pearl
+233,Leather
+234,Gold
+234,Pearl
+234,Platinum
+235,Leather
+236,Gold
+236,Stainless Steel
+237,Gold
+237,Pearl
+237,Platinum
+237,Rose Gold
+237,Silver
+237,Stainless Steel
+238,Silver
+239,Leather
+239,Rose Gold
+240,Gold
+240,Stainless Steel
+241,Platinum
+242,Leather
+242,Silver
+242,Stainless Steel
+243,Gold
+243,Rose Gold
+244,Pearl
+244,Silver
+244,Stainless Steel
+244,Titanium
+245,Rose Gold
+245,Silver
+246,Pearl
+246,Platinum
+246,Rose Gold
+246,Silver
+246,Titanium
+247,Rose Gold
+248,Leather
+248,Silver
+248,Stainless Steel
+249,Gold
+249,Titanium
+250,Stainless Steel

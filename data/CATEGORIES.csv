@@ -1,0 +1,21 @@
+CategoryID,ParentCategoryID,Name
+1,,Rings
+2,,Necklaces
+3,,Bracelets
+4,,Earrings
+5,,Watches
+6,5.0,Engagement
+7,2.0,Wedding
+8,2.0,Personalized Jewelry
+9,2.0,Luxury Collection
+10,1.0,Everyday Jewelry
+11,2.0,Gold Jewelry
+12,3.0,Silver Jewelry
+13,1.0,Gemstone Jewelry
+14,1.0,Gifts
+15,2.0,Men Jewelry
+16,4.0,Women Jewelry
+17,1.0,Kids Jewelry
+18,3.0,Pearls
+19,2.0,Charms
+20,3.0,New Arrivals
